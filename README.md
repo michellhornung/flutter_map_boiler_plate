@@ -1,6 +1,6 @@
 # flutter_map_boiler_plate
 
-A new Flutter project.
+A Flutter boilerplate to develop an app with login, map and list pages.
 
 ## Getting Started
 
@@ -14,3 +14,20 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+## Google Maps key
+Get an API key at <https://cloud.google.com/maps-platform/>.
+
+We used Google Maps plugin for Flutter
+
+Then replace the text YOURKEYHERE with your key, in two places:
+
+### Android
+
+Specify your API key in the application manifest `android/app/src/main/AndroidManifest.xml`:
+
+
+### iOS
+
+Specify your API key in the application delegate `ios/Runner/AppDelegate.m`:
+
