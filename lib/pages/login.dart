@@ -70,10 +70,10 @@ class _MyHomePageState extends State<MyHomePage> {
               children: <Widget>[
                 SizedBox(
                   height: 155.0,
-                  child: Image.asset(
-                    "assets/logo.png",
-                    fit: BoxFit.contain,
-                  ),
+                  // child: Image.asset(
+                  //   "/assets/logo.png",
+                  //   fit: BoxFit.contain,
+                  // ),
                 ),
                 SizedBox(height: 45.0),
                 emailField,

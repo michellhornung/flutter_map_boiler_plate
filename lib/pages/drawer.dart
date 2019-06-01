@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_map_boiler_plate/pages/list.dart';
-import 'package:flutter_map_boiler_plate/pages/map.dart';
+import 'package:flutter_map_boiler_plate/pages/mappage.dart';
 
 class DrawerPage extends StatelessWidget {
   @override

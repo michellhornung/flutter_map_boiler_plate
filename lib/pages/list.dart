@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_map_boiler_plate/pages/map.dart';
+import 'package:flutter_map_boiler_plate/pages/mappage.dart';
 
 class ListPage extends StatelessWidget {
   @override
